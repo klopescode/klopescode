@@ -1,4 +1,4 @@
-# Olá, eu sou o klopescode 👋
+# Olá, eu sou a Kamila 👋
 
 **TypeScript Developer | Criando soluções web modernas e escaláveis**
 
