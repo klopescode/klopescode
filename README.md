@@ -46,8 +46,8 @@ Tenho experiência prática construindo soluções reais no ambiente de trabalho
 
 ## 📌 Projetos
 
-> 🚧 Repositórios sendo organizados — primeiros projetos de automação e análise de dados em breve!
-
+### 🔴 [Health Score — Monitoramento de Risco de Churn](https://github.com/klopescode/health-score-churn)
+Sistema de monitoramento semanal de saúde de clientes para antecipar risco de churn. Desenvolvido em Python + Pandas, com base em solução real implementada em ambiente corporativo.
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=klopescode&label=Visualizações%20do%20perfil&color=0e75b6&style=flat)
